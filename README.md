@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing M.Sc. Computer Science at Khalsa College, Mumbai (2025–Persuing)
+- 🎓 Pursuing M.Sc. Computer Science at Khalsa College, Mumbai (2025–Pursuing)
 - 💼 Former Consultant – Data Science at Epimoney Private Limited
 - 📊 Passionate about ML, NLP, Data Visualization & Automation
 - 📍 Based in Mumbai, India · Open to Remote
@@ -99,7 +99,7 @@
 
 | Degree | Institution | Year |
 | --- | --- | --- |
-| 🎓 M.Sc. Computer Science | Khalsa College, Mumbai | 2025 – Persuing |
+| 🎓 M.Sc. Computer Science | Khalsa College, Mumbai | 2025 – Pursuing |
 | 🎓 B.Sc. Computer Science | SIWS College, Mumbai | 2022 – 2025 |
 
 Relevant Coursework: Machine Learning · Artificial Intelligence · Image Processing · Data Science · Big Data Analytics · Algorithms · Database Management · Statistics
